@@ -1,6 +1,6 @@
 # Research Outputs
 ## 2013-2018 The University of Manchester
-### Thesis, PhD by Published work
+### Thesis, PhD by Published Work
 Maximising the utility of electronic health records: answering clinically important questions whilst expanding methods for data quality, transparency, and reproducibility
 
 ### Journal articles (all open access)
