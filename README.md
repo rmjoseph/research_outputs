@@ -3,6 +3,8 @@
 ### Thesis, PhD by Published Work
 Maximising the utility of electronic health records: answering clinically important questions whilst expanding methods for data quality, transparency, and reproducibility
 
+https://www.research.manchester.ac.uk/portal/en/theses/maximising-the-utility-of-electronic-health-records-answering-clinically-important-questions-whilst-expanding-methods-for-data-quality-transparency-and-reproducibility(4f7bee30-ccc5-4f51-af66-fe50b5550b4d).html
+
 ### Journal articles (all open access)
 - Joseph RM, Movahedi M, Dixon WG & Symmons DP. **Smoking-Related Mortality in Patients With Early Rheumatoid Arthritis: A Retrospective Cohort Study Using the Clinical Practice Research Datalink.** Arthritis Care Res (Hoboken) 2016;68:1598-606. doi:10.1002/acr.22882
 - Joseph RM, Movahedi M, Dixon WG & Symmons DP. **Risks of smoking and benefits of smoking cessation on hospitalisations for cardiovascular events and respiratory infection in patients with rheumatoid arthritis: a retrospective cohort study using the Clinical Practice Research Datalink.** RMD Open 2017;3:e000506. doi:10.1136/rmdopen-2017-000506
